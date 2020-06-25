@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className="App">
-      <Encabezado title="Show Vehicles"   >
+      <Encabezado   >
       </Encabezado>
     </div>    
   );
